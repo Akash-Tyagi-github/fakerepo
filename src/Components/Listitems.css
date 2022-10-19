@@ -1,0 +1,16 @@
+.products-list-1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.products-list-2{
+display: flex;
+flex-direction: column;
+}
+.card{
+    border: 0.1rem solid red;
+    margin: 0.2rem;
+}
+#product-img{
+    width: 10rem;
+    height: 8rem;
+}

@@ -1,0 +1,16 @@
+.main{
+    width: 100%;
+    border: .1rem solid red;
+    display: flex;
+    min-height: 100vh;
+}
+.filters{
+    width: 25%;
+    border: 0.1rem solid red;
+
+}
+.section{
+    width: 75%;
+    border: 0.1rem solid green;
+    padding-left: 1rem;
+}
